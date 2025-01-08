@@ -1,10 +1,10 @@
 ## 🚀 Olá, me chamo Gabriel Cazzuni Roani!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Atualmente estou cursando uma graduação em ADS na PUC Minas e finalizando um técnico em informatica pelo SENAC.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+💬 Estudo programação a 2 anos, porem apenas para projetos pessoais e automações, pensei em ganhar a vida como programador apenas esse ano.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🔭 Atualmente me encontro apenas em projetos para estudo e para melhorias em meu oficio de trabalho, porem nunca sem estudar ou estar pensando em como solucionar os problemas do dia-a-dia.
 
 ---
 
@@ -22,7 +22,7 @@ Faça uma breve apresentação sobre você e a sua stack.
 
 ## 📊 **Estatísticas do GitHub**
 
-Aqui estão as minhas principais estatísticas no GitHub:
+Aqui algumas das minhas estatísticas no GitHub, embora qeuira ser mais ativo em 2025:
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=radical)
 
@@ -30,7 +30,7 @@ Aqui estão as minhas principais estatísticas no GitHub:
 
 ## 📊 **Linguagens Mais Usadas**
 
-Esse gráfico mostra as **linguagens de programação mais usadas** nos meus projetos:
+Esse gráfico mostra as **linguagens de programação mais usadas** em meus projetos:
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoani&layout=compact&theme=radical)
 
@@ -38,5 +38,7 @@ Esse gráfico mostra as **linguagens de programação mais usadas** nos meus pro
 
 ## 📬 **Contato**
 
-- **Email:** seuemail@example.com
+- **Email:** gabrielroani1@gmail.com
 - **LinkedIn:** [seulinkedin](https://www.linkedin.com/in/seulinkedin)
+- **Instagram:** gabrielroani1@gmail.com
+- **YouTube:** [seulinkedin](https://www.linkedin.com/in/seulinkedin)
