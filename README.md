@@ -1,19 +1,17 @@
-# 🚀 **Olá, me chamo Gabriel Cazzuni Roani!**
+## 🚀 Olá, me chamo Gabriel Cazzuni Roani!
 
-Atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas** e finalizando um curso técnico em **Informática** pelo **SENAC**.
+Atualmente estou cursando uma graduação em ADS na PUC Minas e finalizando um técnico em informatica pelo SENAC.
 
-💬 Estudo programação há **2 anos**, inicialmente para projetos pessoais e automações. Só este ano decidi buscar uma carreira profissional como programador.
+💬 Estudo programação a 2 anos, porem apenas para projetos pessoais e automações, pensei em ganhar a vida como programador apenas esse ano.
 
-🔭 Atualmente, estou focado em **projetos de estudo** e no aprimoramento das minhas habilidades para melhorar meu desempenho no trabalho, além de buscar soluções para problemas do dia a dia.
+🔭 Atualmente me encontro apenas em projetos para estudo e para melhorias em meu oficio de trabalho, porém nunca sem estudar ou estar pensando em como solucionar os problemas do dia-a-dia.
 
 ---
 
-## 🚀 **Minhas Skills**
+## 🚀 Minhas Skills
 
-Aqui estão algumas das tecnologias que estou aprendendo e com as quais trabalho no meu dia a dia:
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
@@ -24,7 +22,7 @@ Aqui estão algumas das tecnologias que estou aprendendo e com as quais trabalho
 
 ## 📊 **Estatísticas do GitHub**
 
-Aqui estão algumas das minhas estatísticas no GitHub! Em 2025, meu objetivo é ser ainda mais ativo, contribuindo para projetos open-source e desenvolvendo minhas próprias soluções.
+Aqui algumas das minhas estatísticas no GitHub, embora qeuira ser mais ativo em 2025:
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=radical)
 
@@ -32,7 +30,7 @@ Aqui estão algumas das minhas estatísticas no GitHub! Em 2025, meu objetivo é
 
 ## 📊 **Linguagens Mais Usadas**
 
-Esse gráfico mostra as **linguagens de programação mais utilizadas** nos meus projetos:
+Esse gráfico mostra as **linguagens de programação mais usadas** em meus projetos:
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoani&layout=compact&theme=radical)
 
@@ -40,9 +38,7 @@ Esse gráfico mostra as **linguagens de programação mais utilizadas** nos meus
 
 ## 📬 **Contato**
 
-Você pode me encontrar nos seguintes canais:
-
-- **Email:** [gabrielroani1@gmail.com](mailto:gabrielroani1@gmail.com)
-- **LinkedIn:** [Gabriel Roani](https://www.linkedin.com/in/seulinkedin)
-- **Instagram:** [@gabrielroani1](https://www.instagram.com/gabrielroani1)
-- **YouTube:** [Canal no YouTube](https://www.youtube.com/c/seulinkedin)
+- **Email:** gabrielroani1@gmail.com
+- **LinkedIn:** [seulinkedin](https://www.linkedin.com/in/seulinkedin)
+- **Instagram:** gabrielroani1@gmail.com
+- **YouTube:** [seulinkedin](https://www.linkedin.com/in/seulinkedin)
