@@ -39,6 +39,6 @@ Esse gráfico mostra as **linguagens de programação mais usadas** em meus proj
 ## 📬 **Contato**
 
 - **Email:** gabrielroani1@gmail.com
-- **LinkedIn:** [seulinkedin](https://www.linkedin.com/in/seulinkedin)
+- **LinkedIn:** [Linkedin]([https://www.linkedin.com/in/GabrielCazzuniRoani/)
 - **Instagram:** gabrielroani1@gmail.com
 - **YouTube:** [seulinkedin](https://www.linkedin.com/in/seulinkedin)
