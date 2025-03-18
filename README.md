@@ -1,6 +1,4 @@
-Aqui está sua bio aprimorada, mantendo um tom profissional, fluido e chamativo:  
 
----
 
 ## 🚀 Olá, me chamo Gabriel Cazzuni Roani!  
 
@@ -44,7 +42,3 @@ Este gráfico exibe as **linguagens que mais utilizo** em meus projetos:
 📧 **Email:** gabrielroani1@gmail.com  
 💼 **LinkedIn:** [Gabriel Cazzuni Roani](https://www.linkedin.com/in/GabrielCazzuniRoani)  
 📸 **Instagram:** [@g_roani](https://www.instagram.com/g_roani)  
-
----
-
-Agora ficou mais direto, profissional e engajador! 🚀 Se quiser algo mais específico ou destacar alguma tecnologia, é só avisar! 😃
