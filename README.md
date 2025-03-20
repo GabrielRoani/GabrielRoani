@@ -25,7 +25,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 📈 Estou buscando ser mais ativo no GitHub em **2025**, mas aqui estão algumas das minhas estatísticas até agora:  
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=radical)  
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=dark)  
 
 ---
 
@@ -37,7 +37,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 Este gráfico exibe as **linguagens que mais utilizo** em meus projetos:  
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoani&layout=compact&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoani&layout=compact&theme=dark)  
 
 ---
 
