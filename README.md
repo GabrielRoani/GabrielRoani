@@ -29,7 +29,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 ---
 
-<img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=sunset-gradient&border=fff&dates=FFF" alt="GabrielRoani github contribuitions" />
+<img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=dark&border=fff&dates=FFF" alt="GabrielRoani GitHub Contributions" />
 
 ---
 
