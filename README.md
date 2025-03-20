@@ -29,6 +29,14 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 ---
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=lucysuxo&theme=sunset-gradient&border=fff&dates=FFF" alt="lucysuxo github contribuitions" />
+
+</div>
+
+---
+
 ## 🔥 **Linguagens Mais Usadas**  
 
 Este gráfico exibe as **linguagens que mais utilizo** em meus projetos:  
