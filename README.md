@@ -1,4 +1,4 @@
-
+<div align="center">
 
 ## 🚀 Olá, me chamo Gabriel Cazzuni Roani!  
 
@@ -46,3 +46,4 @@ Este gráfico exibe as **linguagens que mais utilizo** em meus projetos:
 📧 **Email:** gabrielroani1@gmail.com  
 💼 **LinkedIn:** [Gabriel Cazzuni Roani](https://www.linkedin.com/in/GabrielCazzuniRoani)  
 📸 **Instagram:** [@g_roani](https://www.instagram.com/g_roani)  
+<div/>
