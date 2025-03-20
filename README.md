@@ -29,11 +29,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=lucysuxo&theme=sunset-gradient&border=fff&dates=FFF" alt="lucysuxo github contribuitions" />
-
-</div>
+<img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=sunset-gradient&border=fff&dates=FFF" alt="GabrielRoani github contribuitions" />
 
 ---
 
