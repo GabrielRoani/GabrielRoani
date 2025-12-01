@@ -33,6 +33,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 ---
 
+![Snake animation]https://github.com/GabrielRoani
+
 ## 🔥 **Linguagens Mais Usadas**  
 
 Este gráfico exibe as **linguagens que mais utilizo** em meus projetos:  
