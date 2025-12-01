@@ -21,18 +21,21 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 ---
 
+## 📊 **Estatísticas do GitHub**  
 
-## 📊 **Estatísticas do GitHub** 📈 Estou buscando ser mais ativo no GitHub em **2025**, mas aqui estão algumas das minhas estatísticas até agora:  
+📈 Estou buscando ser mais ativo no GitHub em **2025**, mas aqui estão algumas das minhas estatísticas até agora:  
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=dark)  
 
 ---
 
-<img src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=dark&border=fff&dates=FFF" alt="GabrielRoani GitHub Contributions" />
 
 ---
 
-## 🔥 **Linguagens Mais Usadas** ```
+<img src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+## 🔥 **Linguagens Mais Usadas**  
 
 Este gráfico exibe as **linguagens que mais utilizo** em meus projetos:  
 
