@@ -33,7 +33,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas
 
 ---
 
-<img src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ## 🔥 **Linguagens Mais Usadas**  
 
