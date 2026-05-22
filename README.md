@@ -36,11 +36,6 @@ I'm an IT professional currently focused on Artificial Intelligence solutions, s
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Gabriel's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoani&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 ---
