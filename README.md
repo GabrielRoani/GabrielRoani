@@ -1,51 +1,63 @@
 <div align="center">
 
-## 🚀 Olá, me chamo Gabriel Cazzuni Roani!  
+# Hi there, I'm Gabriel Cazzuni Roani! 👋🚀
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **PUC Minas** e estou finalizando um **técnico em Informática** pelo **SENAC**.  
+### 👨‍💻 AI Developer & Systems Analysis Student
 
-💡 Estudo programação há **2 anos**, inicialmente voltado para projetos pessoais e automações. Foi apenas recentemente que decidi transformar essa paixão em uma carreira profissional.  
-
-🚀 Atualmente, estou focado em projetos acadêmicos e no aprimoramento das minhas habilidades para resolver desafios reais do dia a dia. Sempre em busca de aprender mais e encontrar soluções criativas para problemas!  
+I'm an IT professional currently focused on Artificial Intelligence solutions, system architecture, and tech implementation. Rather than just writing traditional code, my daily work centers heavily on leveraging and orchestrating AI to solve complex problems and optimize businesses.
 
 ---
 
-## 🛠 **Minhas Skills**  
+### 💡 About Me
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>  
-
----
-
-## 📊 **Estatísticas do GitHub**  
-
-📈 Estou buscando ser mais ativo no GitHub em **2025**, mas aqui estão algumas das minhas estatísticas até agora:  
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=dark)  
+* 💼 **Entrepreneur & Architect:** Built, developed, and currently maintain the core systems for two of my own companies.
+* 🛠️ **Tech Consultant:** Provide dedicated technical support, infrastructure, and systems backing for a third external company.
+* 🤖 **AI Enthusiast:** Deeply focused on AI development, focusing on leveraging intelligent systems over standard code-heavy workflows.
+* 🎓 Studying **Systems Analysis and Development (ADS)** at **PUC Minas**.
+* 🏫 Finishing an **IT Technical Course** at **SENAC**.
+* 🎯 **Goal for 2026:** Push the boundaries of AI automation and expand my corporate system implementations.
 
 ---
 
-<img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=dark&border=fff&dates=FFF" alt="GabrielRoani GitHub Contributions" />
+### 🛠️ Tech Stack & Skills
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,java&theme=dark" alt="My Skills" />
+</a>
 
 ---
 
-<img src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 📊 GitHub Analytics
 
-## 🔥 **Linguagens Mais Usadas**  
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielRoani&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Gabriel's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoani&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
-Este gráfico exibe as **linguagens que mais utilizo** em meus projetos:  
+<br><br>
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoani&layout=compact&theme=dark)  
+<img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 ---
 
-## 📬 **Contato**  
+### 🐍 Contribution Graph
 
-📧 **Email:** gabrielroani1@gmail.com  
-💼 **LinkedIn:** [Gabriel Cazzuni Roani](https://www.linkedin.com/in/GabrielCazzuniRoani)  
-📸 **Instagram:** [@g_roani](https://www.instagram.com/g_roani)  
-<div/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+### 📬 Let's Connect!
+
+<a href="mailto:gabrielroani1@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/GabrielCazzuniRoani">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/g_roani">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
