@@ -2,6 +2,16 @@
 
 # Hi there, I'm Gabriel Cazzuni Roani! 👋🚀
 
+### 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg?v=1">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg?v=1">
+</picture>
+
+---
+
 ### 👨‍💻 AI Developer & Systems Analysis Student
 
 I'm an IT professional currently focused on Artificial Intelligence solutions, system architecture, and tech implementation. Rather than just writing traditional code, my daily work centers heavily on leveraging and orchestrating AI to solve complex problems and optimize businesses.
@@ -35,16 +45,6 @@ I'm an IT professional currently focused on Artificial Intelligence solutions, s
 <br><br>
 
 <img src="https://streak-stats.demolab.com/?user=GabrielRoani&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
----
-
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg?v=1">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielRoani/GabrielRoani/output/github-contribution-grid-snake.svg?v=1">
-</picture>
 
 ---
 
